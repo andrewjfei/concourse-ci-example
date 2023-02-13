@@ -9,3 +9,9 @@ Example of how to integrate Concourse CI with any Version Control System (VCS).
 - Maven 3
 
 ## Getting Started
+
+Build the project by running the following command.
+
+```
+mvn clean install
+```
